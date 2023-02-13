@@ -1768,7 +1768,7 @@ zd-autocomplete-multibrand[aria-selected='true'] {
 .article-body h3,
 .article-body h4 {
   font-weight: 600;
-  color: #fff;
+  color: #000;
   margin-bottom: 16px;
 }
 .article-body h2 {
@@ -1957,6 +1957,10 @@ zd-autocomplete-multibrand[aria-selected='true'] {
 .article-votes-count {
   color: #7a7878;
 }
+.article-votes-question {
+  color: #000000;
+}
+
 .article-vote {
   margin: 10px 5px;
   min-width: 90px;
