@@ -249,9 +249,9 @@
     &:hover,
     &:active,
     &:focus {
-      background-color: $secondary-shade;
+      background-color: $secondary-text-color;
       text-decoration: none;
-      color: $text-color;
+      color: $text-color-secondary;
     }
 
     &-show-all {
